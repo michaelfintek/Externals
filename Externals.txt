@@ -1,5 +1,0 @@
-https://github.com/nlohmann/json (https://github.com/hombrevrc/websocketpp.git)
-
-https://github.com/zaphoyd/websocketpp
-
-https://sourceforge.net/projects/boost/files/boost-binaries/1.59.0/boost_1_59_0-msvc-14.0-32.exe/download?use_mirror=kent&r=https%3A%2F%2Fsourceforge.net%2Fprojects%2Fboost%2Ffiles%2Fboost-binaries%2F1.59.0%2F&use_mirror=kent
